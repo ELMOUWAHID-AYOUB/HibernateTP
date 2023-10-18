@@ -34,9 +34,9 @@ cette exercice il passe à déférente étape  :
 
 1.créer Développer les classes entités dans le package « ma.projet.classes ».
 
-2. Créer le fichier de configuration hibernate.cgf.xml dans le package « ma.projet.config ».
+2.Créer le fichier de configuration hibernate.cgf.xml dans le package « ma.projet.config ».
 
-3. Créer la classe HibernateUtil dans le package «ma.projet.util ».
+3.Créer la classe HibernateUtil dans le package «ma.projet.util ».
 
 4.Créer l’interface générique IDao dans le package « ma.projet.dao ».
 
