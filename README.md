@@ -4,7 +4,7 @@ programmation qui lie les objets d'une application à une base de données relat
 d'une base de données. Il simplifie également la gestion de la base de données en permettant aux développeurs de travailler avec des objets Java au lieu d'écrire des requêtes SQL.
 
 Pour developement de nos compétences on a traité plusieur TPS :
-
+**EXO1:**
 **-- Database H1--** 
 
 ![h1](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/6a460799-071e-4250-b43f-fc68e4c371bc)
@@ -17,14 +17,14 @@ Base de données : `h1`
 
 ![data](https://github.com/simo-laaouibi/hibernate/assets/130571009/687fdd50-d480-40d9-846b-77410f973b50)
 
-
+**EXO2:**
 **-- Database H2:--**
 
 Cette exercice il est déja corrigé:
 
 ![h2](https://github.com/simo-laaouibi/hibernate/assets/130571009/f227dab3-76eb-4e30-96bf-6a6c4d821938)
 
-
+**EXO3:**
 **-- Database H3:--**
 
 
@@ -66,7 +66,7 @@ dans la classe.
 
 
 
-
+**TAR:**
 **-- Database TAR:--**
 
 
