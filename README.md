@@ -101,7 +101,7 @@ COMMIT;
 
 ![H3](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4a3332eb-7918-4730-855a-1e116271f816)
 
-cette exercice il passe a defernte etape suivant :
+cette exercice il passe a déférente étape  :
 
 1.créer Développer les classes entités dans le package « ma.projet.classes ».
 
