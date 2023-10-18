@@ -5,7 +5,7 @@ d'une base de données. Il simplifie également la gestion de la base de donnée
 
 
 
-Database H1
+-- Database H1
 
 ![h1](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/6a460799-071e-4250-b43f-fc68e4c371bc)
 
@@ -90,7 +90,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-Database H3:
+-- Database H3:
 
 
 ![H3](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4a3332eb-7918-4730-855a-1e116271f816)
@@ -127,7 +127,7 @@ dans la classe.
 
 12.Créer des programmes permettant de tester les questions 
 
-Database TAR:
+-- Database TAR:
 
 
 ![TAR](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/e8850b23-5274-490a-b0b0-7edcc6f1d6df)
