@@ -15,7 +15,7 @@ import javax.persistence.Temporal;
 
 /**
  *
- * @author hp
+ * @author ayoub
  */
 
 @Entity
