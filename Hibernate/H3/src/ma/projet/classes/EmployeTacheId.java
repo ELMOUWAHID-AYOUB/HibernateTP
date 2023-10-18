@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author hp
+ * @author ayoub
  */
 public class EmployeTacheId implements Serializable {
     
