@@ -77,6 +77,9 @@ dans la classe.
 
 ![TAR](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/e8850b23-5274-490a-b0b0-7edcc6f1d6df)
 
+
+![TAR1](https://github.com/MaskedFezz/tpJDBC/assets/130571009/22f90897-1c84-436c-917b-fc3d49f4d87d)
+
 BASE SQL:
 
 -- phpMyAdmin SQL Dump
