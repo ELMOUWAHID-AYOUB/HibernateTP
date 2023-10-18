@@ -95,6 +95,38 @@ Database H3:
 
 ![H3](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4a3332eb-7918-4730-855a-1e116271f816)
 
+cette exercice il passe a defernte etape suivant :
+
+1.créer Développer les classes entités dans le package « ma.projet.classes ».
+
+2. Créer le fichier de configuration hibernate.cgf.xml dans le package « ma.projet.config ».
+   
+3. Créer la classe HibernateUtil dans le package «ma.projet.util ».
+ 
+4.Créer l’interface générique IDao dans le package « ma.projet.dao ».
+
+5. Créer les classes services : ProjetService, TacheService, EmployeService et
+EmployeTacheService qui implémentent l’interface IDao.
+
+6. Créer une méthode permettant d’afficher la liste tâches réalisées par un employé dans la
+classe EmployeService.
+
+7. Créer une méthode permettant d’afficher la liste projets gérées par un employé dans la
+classe EmployeService.
+
+8. Créer une méthode permettant d’afficher la liste des tâches planifiées pour projet
+dans la classe ProjetService.
+
+9. Créer une méthode permettant d’afficher la liste des tâchesréalisées dans un projet
+ 
+10.Créer une méthode permettant d’afficher la liste des tâches dont le prix supérieur
+à 1000 DH dans la classe TacheService en utilisant une requête nommée.
+
+11. Créer une méthode permettant d’afficher la liste des tâchesréalisées entre deux dates
+dans la classe.
+
+12.Créer des programmes permettant de tester les questions 
+
 Database TAR:
 
 
