@@ -5,7 +5,7 @@ d'une base de données. Il simplifie également la gestion de la base de donnée
 
 
 
--- Database H1
+*-- Database H1
 
 ![h1](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/6a460799-071e-4250-b43f-fc68e4c371bc)
 
@@ -18,14 +18,14 @@ d'une base de données. Il simplifie également la gestion de la base de donnée
 ![data](https://github.com/simo-laaouibi/hibernate/assets/130571009/687fdd50-d480-40d9-846b-77410f973b50)
 
 
--- Database H2:
+*-- Database H2:
 
 Cette exercice il est déja corrigé:
 
 ![h2](https://github.com/simo-laaouibi/hibernate/assets/130571009/f227dab3-76eb-4e30-96bf-6a6c4d821938)
 
 
--- Database H3:
+*-- Database H3:
 
 
 ![H3](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4a3332eb-7918-4730-855a-1e116271f816)
@@ -33,33 +33,22 @@ Cette exercice il est déja corrigé:
 cette exercice il passe à déférente étape  :
 
 1.créer Développer les classes entités dans le package « ma.projet.classes ».
-
 2. Créer le fichier de configuration hibernate.cgf.xml dans le package « ma.projet.config ».
-   
 3. Créer la classe HibernateUtil dans le package «ma.projet.util ».
- 
 4.Créer l’interface générique IDao dans le package « ma.projet.dao ».
-
-5. Créer les classes services : ProjetService, TacheService, EmployeService et
+5.Créer les classes services : ProjetService, TacheService, EmployeService et
 EmployeTacheService qui implémentent l’interface IDao.
-
-6. Créer une méthode permettant d’afficher la liste tâches réalisées par un employé dans la
+6.Créer une méthode permettant d’afficher la liste tâches réalisées par un employé dans la
 classe EmployeService.
-
-7. Créer une méthode permettant d’afficher la liste projets gérées par un employé dans la
+7.Créer une méthode permettant d’afficher la liste projets gérées par un employé dans la
 classe EmployeService.
-
-8. Créer une méthode permettant d’afficher la liste des tâches planifiées pour projet
+8.Créer une méthode permettant d’afficher la liste des tâches planifiées pour projet
 dans la classe ProjetService.
-
-9. Créer une méthode permettant d’afficher la liste des tâchesréalisées dans un projet
- 
+9.Créer une méthode permettant d’afficher la liste des tâchesréalisées dans un projet 
 10.Créer une méthode permettant d’afficher la liste des tâches dont le prix supérieur
 à 1000 DH dans la classe TacheService en utilisant une requête nommée.
-
-11. Créer une méthode permettant d’afficher la liste des tâchesréalisées entre deux dates
+11.Créer une méthode permettant d’afficher la liste des tâchesréalisées entre deux dates
 dans la classe.
-
 12.Créer des programmes permettant de tester les questions 
 
 
@@ -67,7 +56,7 @@ dans la classe.
 
 
 
--- Database TAR:
+*-- Database TAR:
 
 
 ![TAR](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/e8850b23-5274-490a-b0b0-7edcc6f1d6df)
