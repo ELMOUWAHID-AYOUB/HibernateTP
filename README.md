@@ -94,6 +94,11 @@ COMMIT;
 
 
 
+-- Database H2:
+
+Cette exercice il est déja corrigé:
+
+![h2](https://github.com/simo-laaouibi/hibernate/assets/130571009/f227dab3-76eb-4e30-96bf-6a6c4d821938)
 
 
 -- Database H3:
