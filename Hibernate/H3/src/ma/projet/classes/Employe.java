@@ -15,7 +15,7 @@ import javax.persistence.OneToMany;
 
 /**
  *
- * @author Ayoub
+ * @author ayoub
  */
 
 @Entity
