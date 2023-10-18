@@ -9,7 +9,7 @@ d'une base de données. Il simplifie également la gestion de la base de donnée
 
 ![h1](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/6a460799-071e-4250-b43f-fc68e4c371bc)
 
-BASE SQL:
+
 
 
 -- Base de données : `h1`
@@ -30,7 +30,7 @@ Cette exercice il est déja corrigé:
 
 ![H3](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4a3332eb-7918-4730-855a-1e116271f816)
 
-cette exercice il passe a déférente étape  :
+cette exercice il passe à déférente étape  :
 
 1.créer Développer les classes entités dans le package « ma.projet.classes ».
 
@@ -72,7 +72,7 @@ dans la classe.
 
 ![TAR](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/e8850b23-5274-490a-b0b0-7edcc6f1d6df)
 
-
+BASE SQL:
 
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
